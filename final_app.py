@@ -1,3 +1,6 @@
+pip install streamlit chromadb sentence-transformers groq python-dotenv
+pip install langchain==0.0.350
+
 import streamlit as st
 from backend import RecipeRAG
 
